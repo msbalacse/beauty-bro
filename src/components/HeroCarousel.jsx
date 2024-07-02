@@ -9,8 +9,8 @@ const HeroCarousel = () => {
           alt="meganthi design"
           className="w-full h-full object-cover object-center"
         />
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex items-center flex-col w-full">
-          <h1 className="text-[8vw] text-white font-Butler font-bold first-letter:text-yellow-400 first-letter:text-[12vw]">
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex items-center gap-4 flex-col w-full">
+          <h1 className="text-5xl md:text-9xl text-white font-Butler font-bold first-letter:text-yellow-400   first-letter:text-[22vw]  md:first-letter:text-[12vw] ">
             Beauty Pro
           </h1>
           <p className="bg-white p-4 w-fit rounded-full text-xs md:text-sm uppercase font-bold font-sans ">
