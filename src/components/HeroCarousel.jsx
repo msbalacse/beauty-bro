@@ -10,7 +10,7 @@ const HeroCarousel = () => {
                     className="object-cover object-center w-full h-full"
                 />
                 <div className="absolute flex flex-col items-center w-full gap-4 -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2">
-                    <h1 className="text-5xl md:text-9xl text-white font-Butler font-bold first-letter:text-yellow-400   first-letter:text-[22vw]  md:first-letter:text-[12vw] ">
+                    <h1 className="text-5xl md:text-9xl text-white font-Wittgenstein font-bold first-letter:text-yellow-400   first-letter:text-[22vw]  md:first-letter:text-[12vw] ">
                         Beauty Pro
                     </h1>
                     <p className="p-4 font-sans text-xs font-bold uppercase bg-white rounded-full w-fit md:text-sm ">
