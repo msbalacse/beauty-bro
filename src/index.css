@@ -84,3 +84,7 @@
 :root {
   --font-butler: 'Butler';
 }
+
+* {
+  font-family: var(--font-butler);
+}
